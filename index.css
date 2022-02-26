@@ -28,3 +28,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#img1{
+    float: right;
+}
+.intro{
+    margin:10%;
+}
+
