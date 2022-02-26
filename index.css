@@ -34,4 +34,12 @@ body{
 .intro{
     margin:10%;
 }
-
+.intro h6{
+    color: purple;
+}
+.gray{
+    color: purple;
+}
+.hi{
+    margin-left: 10%;
+}
