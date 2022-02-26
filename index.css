@@ -30,9 +30,13 @@ body{
 }
 #img1{
     float: right;
+  
 }
 .intro{
-    margin:10%;
+    margin:15%;
+    margin-left: 20%;
+    margin-right: 20%;
+
 }
 .intro h6{
     color: purple;
