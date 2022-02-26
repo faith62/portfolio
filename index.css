@@ -22,3 +22,9 @@
     background: deepskyblue;
     border-radius: 20px;
 }
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5a283bbd268b9691647af7ab/1618498788250-3JE0G8CJMV7S8KL7WKYC/Marketing+101+Header.jpeg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
