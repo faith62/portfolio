@@ -47,6 +47,12 @@ body{
 .hi{
     margin-left: 10%;
 }
-.page-footer{
-    background-color: black;
-}
+/* .page-footer{
+    background-color: white;
+    min-height: 10vh;
+   position: relative;
+   bottom: 0;
+   height: 100px;
+   font-family: sans-serif;
+  
+} */
