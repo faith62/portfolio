@@ -1,0 +1,40 @@
+
+.contact-form{
+/* display: flex;
+flex-direction: column;
+
+margin: 10%;
+margin-right:50%;
+background-color: transparent;
+color: black; */
+float: right;
+display: flex;
+flex-direction: column;
+margin-right: 0%;
+
+}
+.contact-form button{
+    border-radius: 10px;
+    margin: 5%;
+    background-color: purple;
+    font-weight: bold;
+    color: white;
+    padding-left: 10px;
+  
+    
+    
+}
+.intro-contact{
+    
+    margin:15%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.details{
+    font-weight: bolder;
+}
+.contact-me{
+    text-align: center;
+    margin :10%;
+    }
