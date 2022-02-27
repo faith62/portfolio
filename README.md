@@ -19,10 +19,10 @@ This is my personal portfolio website. Here you can be able to know about me , k
  <p>Have you seen any bug? Contact me.</p>
 
  ## Authors Info
-Email: pfifeichemu@gmail.com
+Email: phifeichemu@gmail.com
   
  ### Licence
  MIT Licence
- copyright 2022 chemutai
+ copyright 2022 Chemutai
 
 

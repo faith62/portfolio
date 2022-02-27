@@ -1,6 +1,11 @@
+#img2{
+    float: left;
+    margin-right: 5%;
+}
 .intro-about{
-    margin: 20%;
-    padding: 20%;
+    margin:10%;
+    /* margin-left: 20%; */
+    margin-right: 20%;
 }
 .intro-about h1{
     font-weight: bold;

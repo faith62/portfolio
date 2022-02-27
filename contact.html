@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css" type="text/css">
-    <!-- <link rel="stylesheet" href="contact.html" type="text/css"> -->
+    <link rel="stylesheet" href="contact.css" type="text/css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-black">
@@ -39,6 +39,27 @@
           </div>
         </div>
     </nav>
+    <div class="contact-me">
+        <h4>Contact me|</h4>
+
+    </div>
+    <div class="intro-contact">
+        <form class="contact-form aos-init aos-animate" data-aos="fade-up" method="POST" name="contact"><input type="hidden" name="form-name" value="contact"> 
+            <p class="hidden" style="visibility:hidden;height:0"> 
+                <label>Don’t fill this out if you're human: <input name="bot-field"></label> 
+            </p> <input type="text" placeholder="Full Name" name="name" required="">
+            <div> <input type="email" placeholder="Email" name="email" required=""> 
+                <input type="number" placeholder="Phone Number" name="phone-number" required="">
+            </div> 
+            <textarea name="message" id="" cols="20" rows="10" placeholder="Enter your message" required=""></textarea>
+            <button type="submit">Submit</button>
+        </form>
+        <div class="details">
+            <h6>Phone no. : +254 704 718322</h6>
+            <h6>Email : phifeichemu@gmail.com</h6>
+
+        </div>
+    </div>
 
     <footer class="page-footer font-small blue fixed-bottom">
 
