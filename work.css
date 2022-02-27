@@ -1,0 +1,10 @@
+.project{
+font-weight: bold;
+text-align: center;
+color: purple;
+margin-top: 5%;
+}
+.sample-projects{
+display: flex;
+flex-direction:column ;
+}
