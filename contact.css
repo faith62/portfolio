@@ -20,24 +20,25 @@ margin-right: 0%;
     font-weight: bold;
     color: white;
     padding-left: 10px;
-  
-    
     
 }
+
 .intro-contact{
     
     /* margin:15%; */
     margin-left: 20%;
     margin-right: 20%;
-    margin-top: 0%;
+    margin-top: 5%;
 
 }
 .details{
     font-weight: bolder;
+    margin-top: 10%;
 }
 .contact-me{
     text-align: center;
-    margin-top:10%;
+    font-weight: bold;
+    margin-top:5%;
     color: purple;
 
 

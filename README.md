@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio 
 ### Project description
 This is my personal portfolio website. Here you can be able to know about me , know about my projects and includes my contact info incase one needs to reach me .
 ### By Faith Chemutai ,27/02/2022
